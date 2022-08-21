@@ -27,5 +27,6 @@ rustup update
 
 run app
 ```bash
+cd testing
 npm run tauri dev
 ```
