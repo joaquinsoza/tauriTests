@@ -56,10 +56,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 600,
-        "resizable": true,
-        "title": "testing",
-        "width": 800
+        "height": 1080,
+        "resizable": false,
+        "title": "React App",
+        "width": 1920
       }
     ]
   }
